@@ -50,7 +50,7 @@ This portfolio website serves as a digital representation of my skills, projects
 
 **Srujan Parshewar**
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/parshewarsrujan-23
 
 ## License
 
